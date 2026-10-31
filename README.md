@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./docs/assets/github-social-preview-1280x640-light.png" alt="Project RADP: RISC-V Agentic Design Platform" width="100%">
+  <img src="./docs/assets/github-social-preview-1280x640-dark.png" alt="Project RADP: RISC-V Agentic Design Platform" width="100%">
 </p>
 
 <p align="center">
